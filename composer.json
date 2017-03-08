@@ -13,9 +13,7 @@
     },
     "require": {
         "php": ">=5.5.9",
-        "illuminate/hashing": "^5.3",
         "tymon/jwt-auth": "0.5.*",
-        "illuminate/cookie": "^5.3",
         "dingo/api": "1.0.x@dev"
     },
     "authors": [
